@@ -5,3 +5,10 @@ body{font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida
     }
 ul{display: inline-block;
     text-align: left;}
+* {
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+    height: min-content;
+}
+ 
